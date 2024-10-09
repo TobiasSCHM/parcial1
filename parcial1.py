@@ -1,4 +1,4 @@
-
+#lista de pacientes en el sistema
 pacientes = []
 
 
