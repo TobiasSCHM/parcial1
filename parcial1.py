@@ -93,7 +93,7 @@ def buscar_paciente(pacientes: list, id: int):
             return i
     return None
 
-def menu():
+def menu() -> int:
     """menu por el cual se imprime las instrucciones y se le permite al usuario entregar un numero"""
     print("-----------------------------------------------------")
     print("sistema de gestion clinica")
